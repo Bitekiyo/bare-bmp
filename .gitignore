@@ -1,0 +1,21 @@
+# Visual Studio build artifacts
+.vs/
+x64/
+x86/
+Debug/
+Release/
+*.user
+*.aps
+*.pch
+*.ipch
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.lastbuildstate
+*.log
+
+# Generated output images
+*.bmp
